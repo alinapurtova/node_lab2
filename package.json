@@ -1,0 +1,22 @@
+{
+  "name": "node_lab2",
+  "version": "1.0.0",
+  "description": "tiny router for lab2 node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Alina Purtova",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinapurtova/node_lab2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alinapurtova/node_lab2/issues"
+  },
+  "homepage": "https://github.com/alinapurtova/node_lab2#readme"
+}
